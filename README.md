@@ -12,8 +12,6 @@ system takes a simple definition language as input and generates code
 across programming languages that uses the abstracted stack to build
 interoperable RPC clients and servers.
 
-![Apache Thrift Layered Architecture](doc/images/thrift-layers.png)
-
 Thrift makes it easy for programs written in different programming
 languages to share data and call remote procedures.  With support 
 for [28 programming languages](LANGUAGES.md), chances are Thrift 
@@ -30,10 +28,12 @@ For more details on Thrift's design and implementation, see the Thrift
 whitepaper included in this distribution, or at the README.md file
 in your particular subdirectory of interest.
 
-Status
+Thrift-compiler
 ======
 
-...
+How to install:
+
+    sudo apt install thrift-compiler
 
 Releases
 ========
