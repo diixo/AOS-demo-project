@@ -35,12 +35,19 @@ How to install:
 
     sudo apt install thrift-compiler
 
-Releases
+Requirements
 ========
+The following command will install tools and libraries required to build and install the Apache Thrift compiler and C++ libraries on a Debian/Ubuntu Linux based system.
 
-Thrift does not maintain a specific release calendar at this time.  
+    sudo apt-get install automake bison flex g++ git libboost-all-dev libevent-dev libssl-dev libtool make pkg-config
 
-We strive to release twice yearly.  Download the [current release](http://thrift.apache.org/download).
+
+Thrift-compiler
+======
+
+How to install:
+
+    sudo apt install thrift-compiler
 
 License
 =======
