@@ -28,13 +28,6 @@ For more details on Thrift's design and implementation, see the Thrift
 whitepaper included in this distribution, or at the README.md file
 in your particular subdirectory of interest.
 
-Thrift-compiler
-======
-
-How to install:
-
-    sudo apt install thrift-compiler
-
 Requirements
 ========
 The following command will install tools and libraries required to build and install the Apache Thrift compiler and C++ libraries on a Debian/Ubuntu Linux based system.
