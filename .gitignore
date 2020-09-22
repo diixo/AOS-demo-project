@@ -1,7 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### NetBeans template
 nbproject/private/
-build/
+#build/
 nbbuild/
 dist/
 nbdist/
